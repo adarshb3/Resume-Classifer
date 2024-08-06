@@ -45,5 +45,5 @@ This project aims to develop a resume classifier using Python and computer visio
 ## App Interface
 ![App Interface](https://github.com/adarshb3/Resume-Classifer/blob/main/images/Capture1.JPG)
 
-# Prediction
+# Classification
 ![](https://github.com/adarshb3/Resume-Classifer/blob/main/images/Capture2.JPG)
