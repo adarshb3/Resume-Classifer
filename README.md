@@ -42,3 +42,5 @@ This project aims to develop a resume classifier using Python and computer visio
    - Ensure the code is well-structured, readable, and includes necessary comments.
    - Provide Jupyter notebooks for detailed explanations and visualizations.
 
+![App Interface](https://github.com/adarshb3/Resume-Classifer/blob/main/images/Capture1.JPG)
+![](https://github.com/adarshb3/Resume-Classifer/blob/main/images/Capture2.JPG)
