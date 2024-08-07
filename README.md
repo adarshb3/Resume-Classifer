@@ -40,7 +40,7 @@ The model was evaluated on the validation set, achieving high accuracy and other
 ### Confusion Matrix
 The confusion matrix visually represents the model's performance, highlighting true positives, false positives, true negatives, and false negatives.
 
-![Confusion Matrix](https://github.com/adarshb3/Resume-Classifer/blob/main/images/Capture2.JPG)
+![Confusion Matrix](https://github.com/adarshb3/Resume-Classifer/blob/main/images/output.png)
 
 ## Approach
 1. **Data Collection**:
